@@ -3,9 +3,8 @@
 ## About Me
 
 - 🌱 I’m currently learning TS, Nextjs and other Nodejs based stuff
-- 👯 I’m looking to collaborate on everythong
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on everything
+
 - 📫 How to reach me: ...
 
 ## GitHub Stats
