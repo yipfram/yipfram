@@ -9,4 +9,5 @@
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yipfram&show_icons=true&theme=transparent&bg_color=00000000)
+![Anurag's GitHub stats](https://own-github-readme-stats-7hrkzmzwc-yipframs-projects.vercel.app/api?username=yipfram&show_icons=true&theme=transparent&bg_color=00000000)
+![Top Langs](https://own-github-readme-stats-7hrkzmzwc-yipframs-projects.vercel.app/api/top-langs/?username=yipfram&langs_count=8)
