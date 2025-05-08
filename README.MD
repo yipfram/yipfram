@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning TypeScript, Nextjs, and other Nodejs-based frameworks (Nuxtjs is on my bucket list)
+- 🌱 I’m currently learning TypeScript, Next.js, and other Node.js-based frameworks (Nuxt.js is on my bucket list)
 - 👯 I’m looking to collaborate on everything
 - 🚀 Currently diving into AI, as everyone :)
 
