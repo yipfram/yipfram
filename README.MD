@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on everything
 - 🚀 Currently diving into AI, as everyone :)
 
-- 📫 How to reach me: => mail: romainrochas69@proton.me
+- 📫 How to reach me: => Linkedin :)
 
 ## GitHub Stats
 ![yipfram's GitHub stats](https://own-github-readme-stats-six.vercel.app/api?username=yipfram)
