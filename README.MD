@@ -3,6 +3,7 @@
 ## About Me
 
 - 🌱 I’m currently learning TypeScript, Next.js, and other Node.js-based frameworks (Nuxt.js is on my bucket list)
+- [New] Learning Laravel now... Well's see...
 - 👯 I’m looking to collaborate on everything
 - 🚀 Currently diving into AI, as everyone :)
 
